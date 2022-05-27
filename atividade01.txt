@@ -1,2 +1,16 @@
 Trabalho para curso de full stack Senai.
 UC 7 Versionamento 
+Atividades a serem realizadas:
+ 
+Acesse o site https://git-scm.com/downd/win .
+Instale a ferramenta GIT.
+Crie seu usuário e forneça um endereço de e-mail.
+Crie um repositório GIT local.
+Crie um arquivo para ser alterado e rastreado.
+Faça seu cadastro no GitHub: https://github.com 
+Crie um repositório on-line.
+Publique seu trabalho e faça alterações.
+Crie um arquivo README.md no repositório remoto para simular uma
+
+Atividades do encontro remoto:
+Todas as atividades acima, no mínimo com 2 branches e realizar um merge dos arquivos no final
